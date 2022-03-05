@@ -11,4 +11,4 @@ To check out my code, just clone the repository like this:
 https://github.com/zangelis/dice-game.git
 cd dice-game
 ```
-If you want to view the page in the browser, copy the path from dicee.html and paste it into the search bar.
+If you want to view the page in the browser, copy the path from index.html and paste it into the search bar.
